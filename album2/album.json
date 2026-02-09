@@ -1,0 +1,9 @@
+{
+  "songs": [
+    { "name": "Relax", "file": "Aadat.mp3", "artist": "AP dhillon" },
+    { "name": "Shining", "file": "Andaz-e-Karam.mp3", "artist": "Honey Singh" },
+    { "name": "High", "file": "Dhun.mp3", "artist": "Honey Singh" },
+    { "name": "Super", "file": "Ishq.mp3", "artist": "Honey Singh" },
+    { "name": "Mind", "file": "Ehsaas.mp3", "artist": "Honey Singh" }
+  ]
+}

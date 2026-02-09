@@ -1,0 +1,8 @@
+{
+  "songs": [
+    { "name": "Kya baat ae", "file": "Kya_Baat_Ay_1.mp3", "artist": "Harry Sandhu" },
+    { "name": "Tujh me Rab dikhta he", "file": "Tujh Mein Rab Dikhta Hai x Main Yahaan Hoon-(Mr-Jat.in).mp3", "artist": "Shreya Goshal" },
+    { "name": "Jeena Jeena", "file": "Jeena Jeena Badlapur-(Mr-Jat.in).mp3", "artist": "Arijit Singh" },
+    { "name": "Hawayein", "file": "Hawayein-(Mr-Jat.in).mp3", "artist": "Arijit Singh" }
+  ]
+}

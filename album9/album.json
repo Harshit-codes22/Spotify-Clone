@@ -1,0 +1,8 @@
+{
+  "songs": [
+    { "name": "52 Bars", "file": "52_Bars_1.mp3", "artist": "Karan Aujla" },
+    { "name": "Admirin You", "file": "Admirin_You_1.mp3", "artist": "Karan Aujla" },
+    { "name": "Chitta Kurta", "file": "Chitta_Kurta_1.mp3", "artist": "Karan Aujla" },
+    { "name": "Mexico", "file": "Mexico_Full_Song_1.mp3", "artist": "Karan Aujla" }
+  ]
+}

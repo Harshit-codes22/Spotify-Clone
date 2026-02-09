@@ -1,0 +1,8 @@
+{
+  "songs": [
+    { "name": "Aadat", "file": "Aadat_feat_AP_Dhillon_.mp3", "artist": "AP dhillon" },
+    { "name": "Brown Rang", "file": "Brown_Rang.mp3", "artist": "Honey Singh" },
+    { "name": "Jatt mekhma", "file": "Jatt Mehkma.mp3", "artist": "Honey Singh" },
+    { "name": "Millonaire", "file": "Millionaire.mp3", "artist": "Honey Singh" }
+  ]
+}

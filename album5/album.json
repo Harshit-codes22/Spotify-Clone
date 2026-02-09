@@ -1,0 +1,8 @@
+{
+  "songs": [
+    { "name": "Challa", "file": "Challa_1.mp3", "artist": "Diljit Dosanjh" },
+    { "name": "Kufar", "file": "Kufar.mp3", "artist": "Diljit Dosanjh" },
+    { "name": "Proper Patola", "file": "Proper_Patola.mp3", "artist": "Diljit Dosanjh" },
+    { "name": "Senorita", "file": "Senorita.mp3", "artist": "Diljit Dosanjh" }
+  ]
+}
